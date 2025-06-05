@@ -1,0 +1,7 @@
+cd cardapio-tropicalizando
+git init
+git add .
+git commit -m "Cardápio digital"
+git branch -M main
+git remote add origin https://github.com/david_smel/cardapio-tropicalizando.git
+git push -u origin main
